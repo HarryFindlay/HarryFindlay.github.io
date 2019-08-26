@@ -57,7 +57,7 @@ header > a:hover {
 .if-learning-container {
     display: block;
     margin: auto;
-    width: 50px;
+    width: 50%;
 }
 
 .if-learning-container > img {
@@ -67,6 +67,7 @@ header > a:hover {
 
 .if-learning-container > p {
     font-family: 'Lexend Deca', sans-serif;
+    text-align: center;
 }
 
 
