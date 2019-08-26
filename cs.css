@@ -61,7 +61,8 @@ header > a:hover {
 }
 
 .if-learning-container > img {
-    height: 300px;
+    display: block;
+    margin: auto;
     width: 75%;
 }
 
