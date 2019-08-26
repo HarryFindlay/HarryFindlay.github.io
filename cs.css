@@ -57,6 +57,7 @@ header > a:hover {
 .if-learning-container {
     display: block;
     margin: auto;
+    width: 50px;
 }
 
 .if-learning-container > img {
