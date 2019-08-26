@@ -13,10 +13,10 @@ ifImage.addEventListener("click", function() {
 var heightConverterImg = document.querySelector(".height-converter-container > img");
 
 heightConverterImg.addEventListener("click", function() {   
-  ifImage.src = "images/CS/Height Converter Console.PNG";
+  heightConverterImg.src = "images/CS/Height Converter Console.PNG";
 
   setTimeout(function() {
-    ifImage.src = "images/CS/Height Converter.PNG";
+    heightConverterImg.src = "images/CS/Height Converter.PNG";
   }, 5000);
 }, false);
 
