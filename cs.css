@@ -65,6 +65,7 @@ header > a:hover {
     margin: auto;        
     height: 500px;
     width: 500px;
+    padding: 30px;
 }
 
 .if-learning-container > p {
