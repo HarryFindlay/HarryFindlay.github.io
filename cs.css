@@ -54,12 +54,6 @@ header > a:hover {
     font-family: 'Lexend Deca', sans-serif;
 }
 
-.if-learning-container {
-    width: 50%;
-    display: block;
-    margin: auto;
-}
-
 .if-learning-container > img {
     display: block;
     margin: auto;        
@@ -72,6 +66,20 @@ header > a:hover {
     font-family: 'Lexend Deca', sans-serif;
     text-align: center;
 }
+
+.height-converter-container > img {
+    display: block;
+    margin: auto;        
+    height: 500px;
+    width: 500px;
+    padding: 30px;
+}
+
+.height-converter-container > p {
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: center;
+}
+
 
 
 
