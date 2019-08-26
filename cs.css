@@ -44,6 +44,12 @@ header > a:hover {
     opacity: 1;
 }
 
+/* main  */
+.main {
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
 img {
     height: 300px;
     width: 300px;
