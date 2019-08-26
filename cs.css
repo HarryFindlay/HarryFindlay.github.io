@@ -39,5 +39,11 @@ header > a:hover {
     opacity: 1;
 }
 
+#page-name {
+    float: right;
+    opacity: 1;
+}
+
+
 
 
