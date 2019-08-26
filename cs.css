@@ -46,6 +46,10 @@ header > a:hover {
 
 /* main  */
 .main {
+    padding: 50px;
+}
+
+.main > h1 {
     text-align: center;
     font-family: 'Lexend Deca', sans-serif;
 }
