@@ -54,20 +54,7 @@ header > a:hover {
     font-family: 'Lexend Deca', sans-serif;
 }
 
-img {
-    height: 300px;
-    width: 300px;
-}
 
-#smallestOf3, #smallestOf3Console {
-    display: inline;
-    margin: auto;
-}
-
-.if-learning > p {
-    float: right;
-    font-family: 'Lexend Deca', sans-serif;
-}
 
 
 
