@@ -62,17 +62,14 @@ header > a:hover {
 
 .if-learning-container > img {
     height: 300px;
-    width: 300px;
+    width: 75%;
 }
 
 .if-learning-container > p {
     font-family: 'Lexend Deca', sans-serif;
 }
 
-#leftIFimg {
-    float: left;
-    padding: 0 20px 20px 0;
-}
+
 
 
 
