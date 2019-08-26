@@ -62,12 +62,14 @@ header > a:hover {
 
 .if-learning-container > img {
     display: block;
-    margin: auto;
-    width: 75%;
+    margin: auto;        
+    height: 500px;
+    width: 500px;
 }
 
 .if-learning-container > p {
     font-family: 'Lexend Deca', sans-serif;
+    text-align: center;
 }
 
 
