@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css?family=Asap:400,500,700');
+@import url('https://fonts.googleapis.com/css?family=Lexend+Deca&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0;
+}
+
+body {
+    background-color: #2d2e42;
+}
+
+header {
+    background: white;
+    padding: 20px;
+}
+
+header > h1 {
+    color: black;
+    font-family: Asap, sans-serif;
+}
+
+header > h1, h2 {
+    display: inline;
+    font-family: Asap, sans-serif;
+}
+
+header > h2 {opacity: 0.6;}
+
+header > a {
+    text-decoration: none;
+    color: black;
+    font-family: Asap, sans-serif;
+    transition: 0.4s;
+    opacity: 0.6;
+}
+
+header > a:hover {
+    opacity: 1;
+}
+
+.profile-image {
+    padding: 50px;
+}
+
+#p-image {
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    display: block;
+    margin: auto;
+}
+
+.desc {
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+.desc > h1 {
+    padding: 20px;
+}
+
+.swimming {
+    text-align: center;
+    font-family: 'Lexend Deca', sans-serif;
+    padding: 20px;
+}
+
+
+
+
+
