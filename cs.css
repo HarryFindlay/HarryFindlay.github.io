@@ -54,17 +54,23 @@ header > a:hover {
     font-family: 'Lexend Deca', sans-serif;
 }
 
-.ifLearning > img {
+.if-learning-container {
     display: block;
     margin: auto;
-    height: 300px;
-    width: 300px;
 }
 
-.ifImageLeft {
+.if-learning-container > img {
+    height: 300px;
+    width: 300px;
     float: left;
-    padding: 0 20px 20px 0;
 }
+
+.if-learning-container > p {
+    float: right;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+
 
 
 
