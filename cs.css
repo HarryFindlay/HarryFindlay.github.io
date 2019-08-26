@@ -64,8 +64,8 @@ img {
     margin: auto;
 }
 
-.if-then-else-learning > p{
-    text-align: center;
+.if-learning > p {
+    float: right;
     font-family: 'Lexend Deca', sans-serif;
 }
 
