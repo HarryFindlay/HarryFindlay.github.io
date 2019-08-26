@@ -61,6 +61,10 @@ img {
     margin: auto;
 }
 
+#smallestOf3, #smallestOf3Console {
+    display: inline;
+}
+
 
 
 
