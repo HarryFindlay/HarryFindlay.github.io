@@ -63,11 +63,9 @@ header > a:hover {
 .if-learning-container > img {
     height: 300px;
     width: 300px;
-    float: left;
 }
 
 .if-learning-container > p {
-    float: right;
     font-family: 'Lexend Deca', sans-serif;
 }
 
