@@ -68,6 +68,10 @@ header > a:hover {
     padding: 30px;
 }
 
+.if-learning-container > img:hover {
+    background-image: url(images/CS/CS\ smallest\ num\ of\ 3\ console.PNG);
+}
+
 .if-learning-container > p {
     font-family: 'Lexend Deca', sans-serif;
     text-align: center;
