@@ -2,10 +2,10 @@ var ifImage = document.querySelector(".if-learning-container > img");
 
 
 ifImage.addEventListener("click", function() {   
-  ifImage.src = "images/CS/CS smallest num of 3 console.PNG";
+  ifImage.src = "cs images/CS smallest num of 3 Console.PNG";
 
   setTimeout(function() {
-    ifImage.src = "images/CS/CS smallest num of 3.PNG";
+    ifImage.src = "cs images/CS smallest num of 3.PNG";
   }, 5000);
 }, false);
 
@@ -13,19 +13,19 @@ ifImage.addEventListener("click", function() {
 var heightConverterImg = document.querySelector(".height-converter-container > img");
 
 heightConverterImg.addEventListener("click", function() {   
-  heightConverterImg.src = "images/CS/Height Converter Console.PNG";
+  heightConverterImg.src = "cs images/Height Converter Console.PNG";
 
   setTimeout(function() {
-    heightConverterImg.src = "images/CS/Height Converter.PNG";
+    heightConverterImg.src = "cs images/Height Converter.PNG";
   }, 5000);
 }, false);
 
 var numGuesserImg = document.querySelector(".number-guesser-container > img");
 
 numGuesserImg.addEventListener("click", () => {
-  numGuesserImg.src = "images/CS/Number Guesser Console.PNG";
+  numGuesserImg.src = "cs images/Number Guesser Console.PNG";
 
   setTimeout(function(){
-    numGuesserImg.src = "images/CS/Number Guesser.PNG";
+    numGuesserImg.src = "cs images/Number Guesser.PNG";
   }, 5000);
 }, false);
