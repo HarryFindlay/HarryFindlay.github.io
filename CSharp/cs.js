@@ -2,7 +2,7 @@ var ifImage = document.querySelector(".if-learning-container > img");
 
 
 ifImage.addEventListener("click", function() {   
-  ifImage.src = "cs images/CS smallest num of 3 Console.PNG";
+  ifImage.src = "cs images/CS smallest num of 3 console.PNG";
 
   setTimeout(function() {
     ifImage.src = "cs images/CS smallest num of 3.PNG";
