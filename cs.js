@@ -20,3 +20,12 @@ heightConverterImg.addEventListener("click", function() {
   }, 5000);
 }, false);
 
+var numGuesserImg = document.querySelector(".number-guesser-container > img");
+
+numGuesserImg.addEventListener("click", () => {
+  numGuesserImg.src = "images/CS/Number Guesser Console.PNG";
+
+  setTimeout(function(){
+    numGuesserImg.src = "images/CS/Number Guesser.PNG";
+  }, 5000);
+}, false);
