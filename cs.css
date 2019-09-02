@@ -80,6 +80,19 @@ header > a:hover {
     text-align: center;
 }
 
+.number-guesser-container > img {
+    display: block;
+    margin: auto;        
+    height: 500px;
+    width: 500px;
+    padding: 30px;
+}
+
+.number-guesser-container > p {
+    font-family: 'Lexend Deca', sans-serif;
+    text-align: center;
+}
+
 
 
 
