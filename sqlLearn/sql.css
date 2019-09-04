@@ -53,12 +53,18 @@ header > a:hover {
     font-family: 'Lexend Deca', sans-serif;
 }
 
-.basics { 
+.sql { 
     display: block;
     margin: auto;
     width: 50%;
     font-family: 'Lexend Deca', sans-serif;
 }
+
+.sql > img {
+    display: block;
+    margin: auto;
+}
+
 
 
 
