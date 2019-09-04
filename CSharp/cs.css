@@ -88,6 +88,12 @@ header > a:hover {
     text-align: center;
 }
 
+.number-guesser-container {
+    display: block;
+    margin: auto;
+    width: 70%;
+}
+
 .number-guesser-container > img {
     display: block;
     margin: auto;        
